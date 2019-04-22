@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISMGit", "ISMGit.csproj", "{CA64EC0A-D5D8-4268-B80F-D277F7E4E8E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "..\ConsoleApp1\ConsoleApp1.csproj", "{A2952E65-CE2C-48AD-876A-ACF9C0546DBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CA64EC0A-D5D8-4268-B80F-D277F7E4E8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA64EC0A-D5D8-4268-B80F-D277F7E4E8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA64EC0A-D5D8-4268-B80F-D277F7E4E8E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2952E65-CE2C-48AD-876A-ACF9C0546DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2952E65-CE2C-48AD-876A-ACF9C0546DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2952E65-CE2C-48AD-876A-ACF9C0546DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2952E65-CE2C-48AD-876A-ACF9C0546DBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
